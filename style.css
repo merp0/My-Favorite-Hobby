@@ -1,0 +1,23 @@
+img {
+    width: 102px;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#5ab2fa 0%, #f53636 100%);
+}
+
+h1 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 16px;
+}
+.line{
+    height: 6px;
+    background-color: dimgray;
+    width: 70px;
+    margin: 8px auto;
+}
